@@ -18,5 +18,4 @@
   <ItemGroup>
     <ProjectReference Include="..\EasyMicroservices.UI.Customers.Blazor\EasyMicroservices.UI.Customers.Blazor.csproj" />
   </ItemGroup>
-
 </Project>
